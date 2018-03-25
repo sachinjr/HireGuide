@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "279563418842",
+    "firebase_url": "https://guidehire-35bf8.firebaseio.com",
+    "project_id": "guidehire-35bf8",
+    "storage_bucket": "guidehire-35bf8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:279563418842:android:1b071b2a1e0a63f8",
+        "android_client_info": {
+          "package_name": "com.sachinjr.guidehire"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "279563418842-dr794l82ugnkk3bflnhp8om9r96jl6l5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sachinjr.guidehire",
+            "certificate_hash": "e6c8672fa0277b27acdc27308b859ecc174d952b"
+          }
+        },
+        {
+          "client_id": "279563418842-ed8nm0ghpc4tvvmrddg9bpbouev5alse.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmylMGJ75bGL2Vr1l5ZfVas4yOcqwete8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "279563418842-ed8nm0ghpc4tvvmrddg9bpbouev5alse.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
